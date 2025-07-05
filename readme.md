@@ -21,20 +21,6 @@
 
 ---
 
-## 📁 Project Structure
-
-```
-MiniCMS/
-├── index.html              # Main HTML file
-├── css/
-│   └── style.css           # All styles
-├── js/
-│   └── app.js              # CMS logic and interactivity
-└── assets/                 # (Optional) for images/fonts/etc.
-```
-
----
-
 ## 🛠️ How to Use
 
 1. **Clone the repo**
@@ -62,7 +48,7 @@ MiniCMS/
 
 ## 🖼️ Preview
 
-![MiniCMS UI Preview](screenshots\ss1.png)
+![MiniCMS UI Preview]([screenshots\ss1.png](https://github.com/Bimal022/MiniCMS/blob/5b75db9e92cf5d5b730baa600b598ab479dfaba7/screenshots/ss1.png))
 
 ---
 
