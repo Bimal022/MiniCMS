@@ -62,7 +62,7 @@ MiniCMS/
 
 ## 🖼️ Preview
 
-![MiniCMS UI Preview](https://via.placeholder.com/1000x600?text=MiniCMS+UI+Preview)
+![MiniCMS UI Preview](screenshots\ss1.png)
 
 ---
 
